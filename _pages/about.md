@@ -36,5 +36,15 @@ Education
 * B.S. in Business Administration. 2013-2015.
   * South China University of Technology
 
+Awards and Grants
+======
+Rutgers University
+------
+*  Ph.D. Fellowship 2018 - 2022
+*  Alfred J. Battaglia Memorial Fellowship 2021, 2022
+*  Ph.D. Student Publication Award 2021
+*  Ph.D. Summer Scholarship 2020
+*  Dean’s Competition for Summer Ph.D. Research Assistants 2019
+
 
 

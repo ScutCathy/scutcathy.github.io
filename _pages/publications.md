@@ -11,19 +11,19 @@ redirect_from:
 
 ## Working Papers
 
-**How does Insurance Coverage Affect Unclaimed Prescription Rates and Physicians’ Prescribing Behavior? Evidence from Liaoning, China**
+**How Does Insurance Coverage Affect Unclaimed Prescription Rates and Physicians’ Prescribing Behavior? Evidence from Liaoning, China**
 
-<ins>**Zeng, Z**\*</ins>, Xu, X, and Qi, L. 
+<ins>**Zheng Zeng**\*</ins>, Xiaowei Xu, and Lian Qi. 
 
 ## Papers 
 
 2021
 ---------
 
-**Financial and social impacts of drug
-price changes: Evidence from 2017 healthcare reform in Liaoning Province, China.** 
+**Financial and Social Impacts of Drug
+Price Changes: Evidence from 2017 Healthcare Reform in Liaoning Province, China.** 
 
-Gu, F., Liu, X., Qi, L., Xu, X., and <ins>**Zeng, Z**\*</ins>. The International
+Fulai Gu, Xiaobing Liu, Lian Qi, Xiaowei Xu, and <ins>**Zheng Zeng**\*</ins>. The International
 Journal of Health Planning and Management. 
 
 https://doi.org/10.1002/hpm.3287

@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/lecturer-teaching
+permalink: /teaching/
 venue: "Rutgers University, Supply Chain Management Department"
 date: Fall 2022 - Spring 2023
 location: "New Brunswick, NJ"

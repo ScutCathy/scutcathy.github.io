@@ -15,8 +15,8 @@ main:
     url: /files/CV_Zheng_Zeng.pdf
 
 
-  # - title: "Teaching"
-  #   url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
 
   #- title: "Prospective Students"
   #  url: /prospective/

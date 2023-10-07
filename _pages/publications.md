@@ -13,7 +13,7 @@ redirect_from:
 
 **How Does Insurance Coverage Affect Unclaimed Prescription Rates and Physicians’ Prescribing Behavior? Evidence from Liaoning, China**
 
-<ins>**Zheng Zeng**\*</ins>, Xiaowei Xu, and Lian Qi. 
+<ins>**Zheng Zeng**<ins>, Xiaowei Xu, and Lian Qi. 
 
 ## Papers 
 
@@ -23,7 +23,7 @@ redirect_from:
 **Financial and Social Impacts of Drug
 Price Changes: Evidence from 2017 Healthcare Reform in Liaoning Province, China.** 
 
-Fulai Gu, Xiaobing Liu, Lian Qi, Xiaowei Xu, and <ins>**Zheng Zeng**\*</ins>. The International
+Fulai Gu, Xiaobing Liu, Lian Qi, Xiaowei Xu, and <ins>**Zheng Zeng**</ins>. The International
 Journal of Health Planning and Management. 
 
 https://doi.org/10.1002/hpm.3287

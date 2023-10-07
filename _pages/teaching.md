@@ -25,6 +25,10 @@ redirect_from:
 ## Teaching Assistant
 
 * Undergraduate Courses
-  * Demand Planning and Fulfillment, Supply Chain Finance, and Fundamental of SC Solutions with ERP/SAP
+  * Demand Planning and Fulfillment
+  * Supply Chain Finance
+  * Fundamental of SC Solution with ERP/SAP
 * Graduate Courses
-  * Introduction to Linear Statistical Models, Supply Chain Artificial Intelligence, and Supply Chain Business Intelligence
+  * Introduction to Linear Statistical Models
+  * Supply Chain Artificial Intelligence
+  * Supply Chain Business Intelligence

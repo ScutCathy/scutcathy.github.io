@@ -1,14 +1,10 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/
-venue: "Rutgers University, Supply Chain Management Department"
-date: Fall 2022 - Spring 2023
-location: "New Brunswick, NJ"
+title: "Teaching"
+author_profile: true
+redirect_from: 
+  - /teaching.html
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Lecturer (50% Instructor - a Professional Practice Rank)
 ======

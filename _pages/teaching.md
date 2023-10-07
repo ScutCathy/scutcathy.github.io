@@ -6,21 +6,17 @@ redirect_from:
   - /teaching.html
 ---
 
-## Lecturer (50% Instructor - a Professional Practice Rank)
+## Lecturer (50% Instructor & Part-Time Lecturer)
 
-* Business Intelligence in Supply Chain and Marketing
+* Business Intelligence in Supply Chain and Marketing, Fall 2022 - Spring 2023
   * Average Teaching Effectiveness 4.72/5, Average Course Quality 4.62/5
-* Demand Planning and Fulfillment
-  * Average Teaching Effectiveness 4.47/5, Average Course Quality 4.41/5
+* Demand Planning and Fulfillment, Summer 2022 - Spring 2023
+  * Average Teaching Effectiveness 4.57/5, Average Course Quality 4.42/5
 
-## Part-Time Lecturer
-
-* Demand Planning and Fulfillment, Summer 2022
-  * Teaching Effectiveness 4.86/5, Course Quality 4.43/5
 
 ## Instructor
 
-* Advance Excel Session
+* Advance Excel Session, Summer 2019
 
 ## Teaching Assistant
 

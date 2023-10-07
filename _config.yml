@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zheng Zeng"
 title_separator          : "-"
 name                     : &name "Zheng Zeng"
-description              : &description "Ph.D. Candidate at Rutgers"
+description              : &description "Ph.D. Candidate at Rutgers University"
 url                      : "https://scutcathy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Zheng Zeng"
   avatar           : "zhengz.jpg"
   bio              : "Ph.D. Candidate at Rutgers (zz193@rutgers.edu)"
-  location         : "Newark and New Brunswick, NJ"
+  location         : "New Brunswick, NJ"
   employer         :  
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=lxrXMY0AAAAJ&hl=en&oi=ao"

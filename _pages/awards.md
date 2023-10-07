@@ -6,7 +6,7 @@ redirect_from:
   - /awards.html
 ---
 
-### Awards
+### Awards and Research Grants
 
 * Ph.D. Fellowship 2018 - 2022
 * Alfred J. Battaglia Memorial Fellowship 2021, 2022

@@ -10,7 +10,7 @@ redirect_from:
 <!-- You can also find my publications on <a href="https://scholar.google.com/citations?user=6U4SXnUAAAAJ&hl=en">my Google Scholar profile</a>. -->
 
 ## Working Papers
-----------
+
 **How does Insurance Coverage Affect Unclaimed Prescription Rates and Physicians’ Prescribing Behavior? Evidence from Liaoning, China**
 <ins>**Zeng, Z**\*</ins>, Xu, X, and Qi, L. 
 

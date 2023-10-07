@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Part-Time Lecturer"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Rutgers University, Supply Chain Management Department"
+date: Summer 2022
+location: "New Brunswick, NJ"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

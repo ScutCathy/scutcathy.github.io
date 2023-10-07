@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zixuan Yuan"
+title                    : "Zheng Zeng"
 title_separator          : "-"
-name                     : &name "Zixuan Yuan"
+name                     : &name "Zheng Zeng"
 description              : &description "Ph.D. Candidate at Rutgers"
-url                      : "https://yuanzx33033.github.io/zixuan/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://scutcathy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zixuan Yuan"
+  name             : "Zheng Zeng"
   avatar           : "zixuan_yuan.jpg"
-  bio              : "Ph.D. Candidate at Rutgers (zy101@rutgers.edu)"
-  location         : "New Brunswich, NJ"
+  bio              : "Ph.D. Candidate at Rutgers (zz193@rutgers.edu)"
+  location         : "Newark and New Brunswick, NJ"
   employer         :  
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=lxrXMY0AAAAJ&hl=en&oi=ao"
-  email            : "zy101@rutgers.edu"
+  googlescholar    : # "https://scholar.google.com/citations?user=lxrXMY0AAAAJ&hl=en&oi=ao"
+  email            : "zz193@rutgers.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : yuanzx33033
+  github           : scutcathy
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zixuan-yuan-a00916109/"
+  linkedin         : "https://www.linkedin.com/in/zheng-zeng-5214b0115//"
   orcid            : 
   pinterest        :
   soundcloud       :

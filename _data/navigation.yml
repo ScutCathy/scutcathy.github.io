@@ -11,12 +11,12 @@ main:
    - title: "Awards"
      url: /awards/
 
-  - title: "CV"
-    url: /files/CV_Zheng_Zeng.pdf
-
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "CV"
+    url: /files/CV_Zheng_Zeng.pdf
 
   #- title: "Prospective Students"
   #  url: /prospective/

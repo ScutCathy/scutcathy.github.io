@@ -12,6 +12,7 @@ Zheng Zeng is a Ph.D. Candidate at Supply Chain Management Department of Rutgers
 
 News
 ======
+* 12/2023: Passed my Dissertation Proposal. 
 * 10/2023: Served as a session chair in the 2023 INFORMS Annual Meeting.
 * 06/2022: Joined the Supply Chain Management Department as a 50% instructor. 
 * 07/2021: One paper was accepted by the International Journal of Health Planning and Management.
@@ -36,7 +37,7 @@ Education
 * B.S. in Business Administration. 2013-2015.
   * South China University of Technology
 
-Awards and Grants
+Awards and Honors
 ======
 Rutgers University
 

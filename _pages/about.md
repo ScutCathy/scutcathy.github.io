@@ -12,6 +12,7 @@ Zheng Zeng is a Ph.D. Candidate at Supply Chain Management Department of Rutgers
 
 News
 ======
+* 02/2024: Joined Chanel, Inc. as a Specialist in Operations BI & Analytics.
 * 12/2023: Passed my Dissertation Proposal. 
 * 10/2023: Served as a session chair in the 2023 INFORMS Annual Meeting.
 * 06/2022: Joined the Supply Chain Management Department as a 50% instructor. 

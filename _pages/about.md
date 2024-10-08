@@ -8,7 +8,7 @@
 ---
 
 
-Zheng Zeng is a Ph.D. Candidate at Supply Chain Management Department of Rutgers University. Her research areas involve healthcare analysis, Operations, and supply chain management, focusing on policy changes in drug prices, insurance coverage rates, and production and inventory planning for manufacturing companies. She has published a paper in the International Journal of Health Planning and Management. 
+Zheng Zeng is a Ph.D. Candidate at Supply Chain Management Department of Rutgers University. Her research areas involve healthcare analysis, operations, and supply chain management, focusing on policy changes in drug prices, insurance coverage rates, and production and inventory planning. She has published a paper in the International Journal of Health Planning and Management. 
 
 News
 ======

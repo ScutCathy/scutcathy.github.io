@@ -13,11 +13,11 @@ redirect_from:
 
 * **How Does Insurance Coverage Affect Unclaimed Prescription Rates and Physicians’ Prescribing Behavior? Evidence from Liaoning, China**
 
-<ins>**Zheng Zeng**</ins>, Xiaowei Xu, and Lian Qi. 
+     <ins>**Zheng Zeng**</ins>, Xiaowei Xu, and Lian Qi. 
 
 * **Optimizing Production Capacity: Insights for Manufacturing Companies**
 
-<ins>**Zheng Zeng**</ins>, Lian Qi, and Xiaowei Xu. 
+     <ins>**Zheng Zeng**</ins>, Lian Qi, and Xiaowei Xu. 
 
 ## Papers 
 

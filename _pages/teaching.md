@@ -8,6 +8,7 @@ redirect_from:
 
 ## Lecturer (50% Instructor & Part-Time Lecturer)
 
+* Introduction to Business Research Methods, Fall 2024
 * Business Intelligence in Supply Chain and Marketing, Fall 2022 - Spring 2023
   * Average Teaching Effectiveness 4.72/5, Average Course Quality 4.62/5
 * Demand Planning and Fulfillment, Summer 2022 - Spring 2023
@@ -28,3 +29,4 @@ redirect_from:
   * Introduction to Linear Statistical Models
   * Supply Chain Artificial Intelligence
   * Supply Chain Business Intelligence
+  * Supply Chain Transformation in Digital Era

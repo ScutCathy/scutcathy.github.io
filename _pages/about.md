@@ -12,6 +12,7 @@ Zheng Zeng is a Ph.D. Candidate at Supply Chain Management Department of Rutgers
 
 News
 ======
+* 05/2025: Will present at 35th POMS Annual Conference.
 * 10/2024: Served as a session chair at the 2024 INFORMS Annual Meeting.
 * 09/2024: Joined the Management Science & Information Systems Department at Rutgers University as a part-time lecturer. 
 * 02/2024: Joined Chanel, Inc. as a Specialist in Operations BI & Analytics.
@@ -45,6 +46,7 @@ Awards and Honors
 Rutgers University
 
 *  Graduate School Scholarship 2024
+*  Graduate School Travel Grants 2023
 *  Ph.D. Fellowship 2018 - 2022
 *  Alfred J. Battaglia Memorial Fellowship 2021, 2022
 *  Ph.D. Student Publication Award 2021
